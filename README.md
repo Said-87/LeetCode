@@ -1,5 +1,7 @@
 # LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+LeetCode Solutions
+
+A collection of my solutions to LeetCode problems, created to improve my problem-solving skills, strengthen my understanding of data structures and algorithms, and prepare for technical interviews. 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -12,3 +14,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Said-87/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
+
+Disclaimer
+
+These solutions are intended for learning and interview preparation. Try solving each problem independently before reviewing the provided solution.
+
+Profile
+
+You can explore the complete repository here:
+
+github.com/Said-87/LeetCode
+
+If you find this repository helpful, consider giving it a star.
