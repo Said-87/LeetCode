@@ -24,6 +24,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | ------- |
 | [0002-add-two-numbers](https://github.com/Said-87/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Said-87/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Said-87/LeetCode/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
