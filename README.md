@@ -10,6 +10,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | ------- |
 | [0001-two-sum](https://github.com/Said-87/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Said-87/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Said-87/LeetCode/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Said-87/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Said-87/LeetCode/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +65,10 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Said-87/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Said-87/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
 
 Disclaimer
