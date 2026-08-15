@@ -21,6 +21,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/Said-87/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Said-87/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Said-87/LeetCode/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Said-87/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0012-integer-to-roman](https://github.com/Said-87/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Said-87/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Said-87/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Said-87/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +92,10 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | ------- |
 | [0015-3sum](https://github.com/Said-87/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Said-87/LeetCode/tree/master/0016-3sum-closest) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Said-87/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
 
 Disclaimer
