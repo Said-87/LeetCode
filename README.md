@@ -28,6 +28,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | ------- |
 | [0002-add-two-numbers](https://github.com/Said-87/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Said-87/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Said-87/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | ------- |
 | [0002-add-two-numbers](https://github.com/Said-87/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Said-87/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Said-87/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
