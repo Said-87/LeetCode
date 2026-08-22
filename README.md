@@ -19,6 +19,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0027-remove-element](https://github.com/Said-87/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Said-87/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Said-87/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Said-87/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Said-87/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Said-87/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Said-87/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
