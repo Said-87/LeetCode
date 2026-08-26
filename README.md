@@ -77,6 +77,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Said-87/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Said-87/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Said-87/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Said-87/LeetCode/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
