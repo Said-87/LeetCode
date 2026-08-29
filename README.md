@@ -33,6 +33,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0048-rotate-image](https://github.com/Said-87/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Said-87/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Said-87/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Said-87/LeetCode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Said-87/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Said-87/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Said-87/LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0042-trapping-rain-water](https://github.com/Said-87/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Said-87/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Said-87/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Said-87/LeetCode/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
