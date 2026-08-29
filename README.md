@@ -172,6 +172,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0046-permutations](https://github.com/Said-87/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Said-87/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Said-87/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Said-87/LeetCode/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | ------- |
 | [0037-sudoku-solver](https://github.com/Said-87/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Said-87/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Said-87/LeetCode/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
