@@ -37,6 +37,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0054-spiral-matrix](https://github.com/Said-87/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Said-87/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Said-87/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Said-87/LeetCode/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
 | ------- |
