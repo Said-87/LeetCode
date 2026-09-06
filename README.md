@@ -120,6 +120,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0065-valid-number](https://github.com/Said-87/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Said-87/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Said-87/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Said-87/LeetCode/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0020-valid-parentheses](https://github.com/Said-87/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Said-87/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Said-87/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Said-87/LeetCode/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
