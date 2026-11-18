@@ -154,6 +154,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0091-decode-ways](https://github.com/Said-87/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Said-87/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Said-87/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Said-87/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of my solutions to LeetCode problems, created to improve my problem
 | [0095-unique-binary-search-trees-ii](https://github.com/Said-87/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Said-87/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Said-87/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Said-87/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Manacher
 |  |
 | ------- |
